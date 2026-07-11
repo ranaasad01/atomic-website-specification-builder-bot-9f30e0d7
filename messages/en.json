@@ -1,7 +1,7 @@
 {
   "nav": {
-    "wordmark": "builder-bot",
-    "homeLabel": "builder-bot home",
+    "wordmark": "builder-social",
+    "homeLabel": "builder-social home",
     "ariaLabel": "Main navigation",
     "mobileAriaLabel": "Mobile navigation",
     "howitworks": "How It Works",
@@ -31,12 +31,12 @@
       "terms": "Terms of Service",
       "cookies": "Cookie Policy"
     },
-    "copyright": "© {year} builder-bot. All rights reserved.",
+    "copyright": "© {year} builder-social. All rights reserved.",
     "tagline": "Your identity has an address."
   },
   "address": {
     "available": "This address is yours",
-    "checking": "Checking availability…",
+    "checking": "Checking availability\u2026",
     "claimButton": "Claim address",
     "taken": "Already taken"
   },
@@ -49,7 +49,7 @@
     "badge": "Limited time",
     "footnote": "No credit card required to start.",
     "headline": "Ready to claim your identity?",
-    "sub": "Join thousands building their social presence on builder-bot."
+    "sub": "Join thousands building their social presence on builder-social."
   },
   "flip": {
     "eyebrow": "Choose your path",
@@ -70,8 +70,8 @@
   "hero": {
     "badge": "Your social identity starts here",
     "claimed": "Address claimed!",
-    "footnote": "you.builder-bot.com is your permanent web address.",
-    "headline": "Claim your address on builder-bot",
+    "footnote": "you.builder-social.com is your permanent web address.",
+    "headline": "Claim your address on builder-social",
     "inputLabel": "Enter your name",
     "sub": "Build your online presence with a memorable, personalized address."
   },

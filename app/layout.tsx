@@ -14,40 +14,40 @@ const inter = Inter({
 
 export const metadata: Metadata = {
   formatDetection: { telephone: false, date: false, email: false, address: false },
-  title: "builder-bot — Your identity has an address.",
+  title: "builder-social — Your identity has an address.",
   description:
-    "Claim your personal website address at you.builder-bot.com. Powered by an AI chat builder and a growing social network of personal sites.",
+    "Claim your personal website address at you.builder-social.com. Powered by an AI chat builder and a growing social network of personal sites.",
   keywords: [
     "personal website",
     "AI website builder",
     "personal address",
-    "builder-bot",
+    "builder-social",
     "social network",
   ],
   openGraph: {
-    title: "builder-bot — Your identity has an address.",
+    title: "builder-social — Your identity has an address.",
     description:
-      "Claim your personal website address at you.builder-bot.com. Powered by an AI chat builder and a growing social network of personal sites.",
-    url: "https://builder-bot.com",
-    siteName: "builder-bot",
+      "Claim your personal website address at you.builder-social.com. Powered by an AI chat builder and a growing social network of personal sites.",
+    url: "https://builder-social.com",
+    siteName: "builder-social",
     type: "website",
     images: [
       {
-        url: "/images/og-builder-bot.jpg",
+        url: "/images/og-builder-social.jpg",
         width: 1200,
         height: 630,
-        alt: "builder-bot — Your identity has an address.",
+        alt: "builder-social — Your identity has an address.",
       },
     ],
   },
   twitter: {
     card: "summary_large_image",
-    title: "builder-bot — Your identity has an address.",
+    title: "builder-social — Your identity has an address.",
     description:
-      "Claim your personal website address at you.builder-bot.com. Powered by an AI chat builder.",
-    images: ["/images/og-builder-bot.jpg"],
+      "Claim your personal website address at you.builder-social.com. Powered by an AI chat builder.",
+    images: ["/images/og-builder-social.jpg"],
   },
-  metadataBase: new URL("https://builder-bot.com"),
+  metadataBase: new URL("https://builder-social.com"),
 };
 
 export default function RootLayout({

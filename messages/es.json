@@ -1,7 +1,7 @@
 {
   "nav": {
-    "wordmark": "builder-bot",
-    "homeLabel": "inicio de builder-bot",
+    "wordmark": "builder-social",
+    "homeLabel": "inicio de builder-social",
     "ariaLabel": "Navegación principal",
     "mobileAriaLabel": "Navegación móvil",
     "howitworks": "Cómo funciona",
@@ -31,7 +31,7 @@
       "terms": "Términos de servicio",
       "cookies": "Política de cookies"
     },
-    "copyright": "© {year} builder-bot. Todos los derechos reservados.",
+    "copyright": "© {year} builder-social. Todos los derechos reservados.",
     "tagline": "Tu identidad tiene una dirección."
   },
   "address": {
@@ -49,7 +49,7 @@
     "badge": "Tiempo limitado",
     "footnote": "No se requiere tarjeta de crédito para comenzar.",
     "headline": "¿Listo para reclamar tu identidad?",
-    "sub": "Únete a miles que están construyendo su presencia social en builder-bot."
+    "sub": "Únete a miles que están construyendo su presencia social en builder-social."
   },
   "flip": {
     "eyebrow": "Elige tu camino",
@@ -70,8 +70,8 @@
   "hero": {
     "badge": "Tu identidad social comienza aquí",
     "claimed": "¡Dirección reclamada!",
-    "footnote": "you.builder-bot.com es tu dirección web permanente.",
-    "headline": "Reclama tu dirección en builder-bot",
+    "footnote": "you.builder-social.com es tu dirección web permanente.",
+    "headline": "Reclama tu dirección en builder-social",
     "inputLabel": "Ingresa tu nombre",
     "sub": "Construye tu presencia en línea con una dirección memorable y personalizada."
   },

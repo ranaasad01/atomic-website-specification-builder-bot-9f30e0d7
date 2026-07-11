@@ -13,10 +13,10 @@ export interface PricingTier {
   highlighted: boolean;
 }
 
-export const APP_NAME = "builder-bot";
+export const APP_NAME = "builder-social";
 export const APP_TAGLINE = "Your identity has an address.";
-export const APP_DOMAIN = "builder-bot.com";
-export const APP_ADDRESS_SUFFIX = ".builder-bot.com";
+export const APP_DOMAIN = "builder-social.com";
+export const APP_ADDRESS_SUFFIX = ".builder-social.com";
 
 export const navLinks: NavLink[] = [
   { label: "Home", href: "/" },
