@@ -1,0 +1,105 @@
+{
+  "nav": {
+    "wordmark": "builder-bot",
+    "homeLabel": "inicio de builder-bot",
+    "ariaLabel": "Navegación principal",
+    "mobileAriaLabel": "Navegación móvil",
+    "howitworks": "Cómo funciona",
+    "thebot": "El Bot",
+    "network": "Red",
+    "pricing": "Precios",
+    "cta": "Reclama tu dirección",
+    "openMenu": "Abrir menú",
+    "closeMenu": "Cerrar menú"
+  },
+  "footer": {
+    "col": {
+      "product": "Producto",
+      "company": "Empresa",
+      "legal": "Legal"
+    },
+    "link": {
+      "howItWorks": "Cómo funciona",
+      "theBot": "El Bot",
+      "network": "Red",
+      "pricing": "Precios",
+      "about": "Acerca de",
+      "blog": "Blog",
+      "careers": "Carreras",
+      "contact": "Contacto",
+      "privacy": "Política de privacidad",
+      "terms": "Términos de servicio",
+      "cookies": "Política de cookies"
+    },
+    "copyright": "© {year} builder-bot. Todos los derechos reservados.",
+    "tagline": "Tu identidad tiene una dirección."
+  },
+  "address": {
+    "available": "Esta dirección es tuya",
+    "checking": "Verificando disponibilidad…",
+    "claimButton": "Reclamar dirección",
+    "taken": "Ya está ocupada"
+  },
+  "bot": {
+    "eyebrow": "Impulsado por IA",
+    "headline": "Tu bot constructor personal",
+    "sub": "Un asistente inteligente que te ayuda a crecer tu presencia y conectar con tu comunidad."
+  },
+  "cta": {
+    "badge": "Tiempo limitado",
+    "footnote": "No se requiere tarjeta de crédito para comenzar.",
+    "headline": "¿Listo para reclamar tu identidad?",
+    "sub": "Únete a miles que están construyendo su presencia social en builder-bot."
+  },
+  "flip": {
+    "eyebrow": "Elige tu camino",
+    "headline": "Posee o alquila tu dirección",
+    "owning1": "Propiedad permanente",
+    "owning2": "Personalización completa",
+    "owning3": "Acceso de por vida",
+    "owning4": "Derechos de transferencia",
+    "owning5": "Soporte premium",
+    "owningLabel": "Comprar",
+    "renting1": "Flexibilidad mensual",
+    "renting2": "Personalización básica",
+    "renting3": "Cancelar en cualquier momento",
+    "renting4": "Características estándar",
+    "renting5": "Soporte comunitario",
+    "rentingLabel": "Alquilar"
+  },
+  "hero": {
+    "badge": "Tu identidad social comienza aquí",
+    "claimed": "¡Dirección reclamada!",
+    "footnote": "you.builder-bot.com es tu dirección web permanente.",
+    "headline": "Reclama tu dirección en builder-bot",
+    "inputLabel": "Ingresa tu nombre",
+    "sub": "Construye tu presencia en línea con una dirección memorable y personalizada."
+  },
+  "how": {
+    "eyebrow": "Cómo funciona",
+    "headline": "Tres pasos para tu identidad"
+  },
+  "network": {
+    "discoverFeed": "Descubrir",
+    "eyebrow": "Mantente conectado",
+    "follow": "Seguir",
+    "followers": "Seguidores",
+    "following": "Siguiendo",
+    "headline": "Tu red, a tu manera",
+    "sub": "Conecta con constructores, comparte actualizaciones y crece juntos."
+  },
+  "persona": {
+    "eyebrow": "Construye tu perfil",
+    "headline": "Expresa quién eres"
+  },
+  "pricing": {
+    "annual": "Plan anual",
+    "annualSave": "Ahorra 20%",
+    "billedAnnually": "Facturado anualmente",
+    "eyebrow": "Precios simples",
+    "headline": "Planes para cada constructor",
+    "monthly": "Plan mensual",
+    "mostPopular": "Más popular",
+    "perMonth": "por mes"
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "nav": {
+    "wordmark": "builder-bot",
+    "homeLabel": "builder-bot home",
+    "ariaLabel": "Main navigation",
+    "mobileAriaLabel": "Mobile navigation",
+    "howitworks": "How It Works",
+    "thebot": "The Bot",
+    "network": "Network",
+    "pricing": "Pricing",
+    "cta": "Claim Your Address",
+    "openMenu": "Open menu",
+    "closeMenu": "Close menu"
+  },
+  "footer": {
+    "col": {
+      "product": "Product",
+      "company": "Company",
+      "legal": "Legal"
+    },
+    "link": {
+      "howItWorks": "How It Works",
+      "theBot": "The Bot",
+      "network": "Network",
+      "pricing": "Pricing",
+      "about": "About",
+      "blog": "Blog",
+      "careers": "Careers",
+      "contact": "Contact",
+      "privacy": "Privacy Policy",
+      "terms": "Terms of Service",
+      "cookies": "Cookie Policy"
+    },
+    "copyright": "© {year} builder-bot. All rights reserved.",
+    "tagline": "Your identity has an address."
+  },
+  "address": {
+    "available": "This address is yours",
+    "checking": "Checking availability…",
+    "claimButton": "Claim address",
+    "taken": "Already taken"
+  },
+  "bot": {
+    "eyebrow": "Powered by AI",
+    "headline": "Your personal builder bot",
+    "sub": "An intelligent assistant that helps you grow your presence and connect with your community."
+  },
+  "cta": {
+    "badge": "Limited time",
+    "footnote": "No credit card required to start.",
+    "headline": "Ready to claim your identity?",
+    "sub": "Join thousands building their social presence on builder-bot."
+  },
+  "flip": {
+    "eyebrow": "Choose your path",
+    "headline": "Own or rent your address",
+    "owning1": "Permanent ownership",
+    "owning2": "Full customization",
+    "owning3": "Lifetime access",
+    "owning4": "Transfer rights",
+    "owning5": "Premium support",
+    "owningLabel": "Own",
+    "renting1": "Monthly flexibility",
+    "renting2": "Basic customization",
+    "renting3": "Cancel anytime",
+    "renting4": "Standard features",
+    "renting5": "Community support",
+    "rentingLabel": "Rent"
+  },
+  "hero": {
+    "badge": "Your social identity starts here",
+    "claimed": "Address claimed!",
+    "footnote": "you.builder-bot.com is your permanent web address.",
+    "headline": "Claim your address on builder-bot",
+    "inputLabel": "Enter your name",
+    "sub": "Build your online presence with a memorable, personalized address."
+  },
+  "how": {
+    "eyebrow": "How it works",
+    "headline": "Three steps to your identity"
+  },
+  "network": {
+    "discoverFeed": "Discover",
+    "eyebrow": "Stay connected",
+    "follow": "Follow",
+    "followers": "Followers",
+    "following": "Following",
+    "headline": "Your network, your way",
+    "sub": "Connect with builders, share updates, and grow together."
+  },
+  "persona": {
+    "eyebrow": "Build your profile",
+    "headline": "Express who you are"
+  },
+  "pricing": {
+    "annual": "Annual plan",
+    "annualSave": "Save 20%",
+    "billedAnnually": "Billed annually",
+    "eyebrow": "Simple pricing",
+    "headline": "Plans for every builder",
+    "monthly": "Monthly plan",
+    "mostPopular": "Most popular",
+    "perMonth": "per month"
+  }
+}
